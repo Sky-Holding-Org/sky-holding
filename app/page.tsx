@@ -27,7 +27,7 @@ export default function HomePage() {
             ambition is the first step towards
           </p>
           <span className="font-[1000] text-5xl sm:text-4xl md:text-6xl lg:text-7xl xl:text-8xl 2xl:text-9xl uppercase tracking-[0.1em] sm:tracking-[0.15em] md:tracking-[0.2em] text-[#000C41] text-center leading-tight">
-            sucess
+            success
           </span>
         </div>
       </section>
